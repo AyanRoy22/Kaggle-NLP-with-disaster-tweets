@@ -2,10 +2,5 @@
 The objective of the project is to identify if a specific tweet is a real disaster or not.
 
 
-@misc{nlp-getting-started,
-    author = {Addison Howard, devrishi, Phil Culliton, Yufeng Guo},
-    title = {Natural Language Processing with Disaster Tweets},
-    publisher = {Kaggle},
-    year = {2019},
-    url = {https://kaggle.com/competitions/nlp-getting-started}
-}
+### Citation
+Addison Howard, devrishi, Phil Culliton, Yufeng Guo. (2019). Natural Language Processing with Disaster Tweets. Kaggle. https://kaggle.com/competitions/nlp-getting-started
